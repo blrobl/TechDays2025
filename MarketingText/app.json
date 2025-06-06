@@ -38,7 +38,8 @@
     }
   ],
   "source": {
-    "repositoryUrl": "https://github.com/krupybalu/TechDays.git"
+    "repositoryUrl": "https://github.com/krupybalu/TechDays.git",
+    "commit": "abfd3cba45ba72337415665e3aa6204ff772b643"
   },
   "keyVaultUrls": [ 
     "https://mykeyvault.vault.azure.net" 
